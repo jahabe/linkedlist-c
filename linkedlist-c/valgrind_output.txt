@@ -1,0 +1,9 @@
+==18703== 
+==18703== HEAP SUMMARY:
+==18703==     in use at exit: 0 bytes in 0 blocks
+==18703==   total heap usage: 204,243 allocs, 204,243 frees, 13,079,584 bytes allocated
+==18703== 
+==18703== All heap blocks were freed -- no leaks are possible
+==18703== 
+==18703== For lists of detected and suppressed errors, rerun with: -s
+==18703== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
